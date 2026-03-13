@@ -21,13 +21,6 @@ Tools & Technologies
 - Matplotlib
 - Yahoo Finance API (yfinance)
 
-Project Structure
-
-stock-market-prediction-ml
-│
-├── stock_market_prediction_with_technical_indicators.ipynb
-└── README.md
-
 Author
 
 Vishu Lohan
