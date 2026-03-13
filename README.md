@@ -1,6 +1,5 @@
-# stock-market-prediction-ml
-Stock Market Price Prediction using Machine Learning and Technical Indicators
 # Stock Market Price Prediction using Machine Learning
+Stock Market Price Prediction using Machine Learning and Technical Indicators
 
 This project predicts stock prices using machine learning and technical indicators.
 
